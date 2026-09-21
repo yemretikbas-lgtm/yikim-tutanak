@@ -11,3 +11,6 @@ YIKIM TUTANAK UYGULAMASI v1.0
 - Word çıktısında 1. sayfa tutanak ve imza komisyonu, 2. sayfa fotoğraftır.
 - Word dosya adı kişi ad(lar)ından oluşturulur.
 - Uygulama GitHub Pages altında HTTPS ile PWA/offline çalışır.
+
+
+v1.3: Çoklu fotoğraf desteği eklendi. Fotoğraflar Word ekinde sayfa başına en fazla 2 adet yerleştirilir. Tek .docx çıktı, AMB ve akordeon yerleşim sistemi korunmuştur.
