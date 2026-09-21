@@ -14,3 +14,6 @@ YIKIM TUTANAK UYGULAMASI v1.0
 
 
 v1.3: Çoklu fotoğraf desteği eklendi. Fotoğraflar Word ekinde sayfa başına en fazla 2 adet yerleştirilir. Tek .docx çıktı, AMB ve akordeon yerleşim sistemi korunmuştur.
+
+
+v1.4: Saha Takip Komisyonu başlığı açık tab durağı ve sabit imza tablosu ile mobil Word görüntüleyicilerde kaymaya karşı sabitlendi. Fotoğraflar oran bozulmadan sayfaya sığdırılır; 1 fotoğraf tüm ek sayfasında, 2 fotoğraf iki eşit dikey alanda ortalanır. Sonraki sayfalarda da aynı 2 fotoğraf/sayfa düzeni uygulanır.
